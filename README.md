@@ -1,7 +1,7 @@
 Tools to Enhance Productivity, Collaboration, and Transparency
 ================
 
-## Pre-Tutorial Set-up
+## Pre-Pre-Tutorial Set-up
 
 This tutorial provides an introduction to a collection of tools designed
 to increase research productivity, collaboration, and transparency. The
@@ -36,9 +36,9 @@ By project management I primarily mean keeping track of assigned tasks
 using the **Issues** tab on GitHub. We can have an ongoing conversation
 here about each specific issue and close it out when its completed or
 resolved. Be sure to tag collaborators you want to see the conversation
-(e.g., `@marcdotson`). Think of this as an email thread or Slack channel
-where all of the conversations are in one place, easily searchable, and
-automatically archived.
+(e.g., `@jeff-dotson`). Think of this as an email thread or Slack
+channel where all of the conversations are in one place, easily
+searchable, and automatically archived.
 
 ### Writing
 
